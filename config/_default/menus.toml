@@ -1,0 +1,20 @@
+
+[[main]]
+    identifier = "about"
+    name = "About me"
+    url = "/about"
+    weight = 1
+
+# Social Media Configuration
+
+[[social]]
+    identifier = "instagram"
+    name = "Instagram"
+    url = "https://www.instagram.com/joaovitorx03"
+    weight = 2
+
+[[social]]
+    identifier = "github"
+    name = "GitHub"
+    url = "https://github.com/JoaoVitorXavierLimaSilva123"
+    weight = 3
