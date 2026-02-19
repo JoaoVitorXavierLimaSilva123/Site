@@ -1,11 +1,9 @@
 ---
 title: "Latest Posts"
-draft: true
+draft: false
 
 ---
 
 ---
 
 #### [Testando minha primeira publicação]()
-
-
