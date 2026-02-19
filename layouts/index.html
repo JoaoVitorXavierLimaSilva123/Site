@@ -1,9 +1,16 @@
-{{ define "main" }} 
-
+{{ define "main" }}
 <div class="py-2 flex flex-col gap-1">
   <h3 class="title-small">{{ .Title }}</h3>
 </div>
+<section>{{ .Content }}</section>
 
-    <section>{{ .Content }} </section>
-
+<section class="flex flex-col gap-4 mt-4">
+  {{ range where .Site.RegularPages "Type" "posts" }}
+  <article>
+    <a href="{{ .Permalink }}" class="title-small">{{ .Title }}</a>
+    <p class="text-sm">{{ .Date.Format "02/01/2006" }}</p>
+    <p>{{ .Summary }}</p>
+  </article>
+  {{ end }}
+</section>
 {{ end }}
