@@ -1,6 +1,6 @@
 ---
 title: "Markdown Cheat Sheet"
-draft: false
+draft: true
 date: 2022-08-27T09:16:45.000Z
 description: "Markdown is a powerful tool for creating rich text using a plain text editor. This cheatsheet is a quick reference for Markdown syntax."
 categories:
@@ -53,8 +53,8 @@ Emphasis, aka italics, with asterisks or underscores. **Strong emphasis**, aka b
 2. Another item
 3. Actual numbers don't matter, just that it's a number
    1. 1st.
-   1. 2nd.
-   1. 3rd.
+   2. 2nd.
+   3. 3rd.
 
 ## Unordered:
 
@@ -99,8 +99,6 @@ You can reference a footnote like this.
 
 > All generalizations are false, including this one. — Mark Twain. [^1]
 
-[^1]: https://www.brainyquote.com/quotes/mark_twain_137872.
-
 # Code
 
 ---
@@ -124,7 +122,7 @@ But let's throw in a <b>tag</b>.
 
 You can remove line numbers, change the highlighting theme, and more. See [Syntax Highlighting](https://gohugo.io/content-management/syntax-highlighting/) and [Highlight](https://gohugo.io/getting-started/configuration-markup/#highlight/).
 
-```c {lineNos=false}
+```c
 #include <stdio.h>
 
 int main()
@@ -188,3 +186,5 @@ apply the scroll-auto utility on hover.
 term
 : definition
 : another definition
+
+[^1]: https://www.brainyquote.com/quotes/mark_twain_137872.
