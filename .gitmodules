@@ -1,9 +1,3 @@
-[submodule "Lowkey-Hugo-Theme"]
-	path = Lowkey-Hugo-Theme
-	url = https://github.com/nixentric/Lowkey-Hugo-Theme
-[submodule "themes/Lowkey"]
-	path = themes/Lowkey
-	url = https://github.com/nixentric/Lowkey-Hugo-Theme
 [submodule "themes/enchanted-lowkey"]
 	path = themes/enchanted-lowkey
 	url = https://github.com/nixentric/Lowkey-Hugo-Theme.git
