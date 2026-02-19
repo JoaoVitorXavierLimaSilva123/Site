@@ -5,7 +5,6 @@ defaultContentLanguage = 'pt'
 theme = 'enchanted-lowkey'
 title = 'João Vitor Xavier'
 enableRobotsTXT = true
-summaryLength = 15
 [pagination]
   pagerSize = 10
 
