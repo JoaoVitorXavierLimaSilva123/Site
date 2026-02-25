@@ -1,19 +1,15 @@
-+++
-title: "O Deserto Dos Tártaros"
+---
+title: "O Deserto dos Tártaros"
 date: 2026-02-25T09:44:29-03:00
 draft: false# Set 'false' to publish
 tableOfContents: false# Enable/disable Table of Contents
-description: 'Clássico italiano'
+description: 'Clássico do século XX'
 categories:
-  - Literatura
-  - Classicos
+  - Literatura italiana
 tags:
+  - Dino Buzzati
   - Livros
-  - Italiano
-  - Dino Buzzati
-+++
-
-# 
+---
 
 * * *
 
