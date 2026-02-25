@@ -34,8 +34,7 @@ O livro apresenta muitos momentos que podem significar diversas coisas. Mas, par
 Não que uma vida “normal” seja algo ruim; o ponto é não deixarmos de fazer aquilo que sentimos necessidade de fazer — seja estudar para uma prova, praticar alguma atividade física desafiadora ou ter coragem de chegar em alguém do nosso interesse. O essencial é não sermos omissos ou covardes e, por causa disso, não sofrermos com o arrependimento tardio.
 
 ---
-
-<img src="https://wp.ufpel.edu.br/observatoriocuid/files/2019/05/tartaros-282x400.jpg" title="" alt="Dica de leitura: “O deserto dos tártaros”. – Observatório ..." data-align="center">
+{{< img src="o_deserto_dos_tartaros.jpeg" alt="Deserto" caption="This is the default position of a figcaption, but it can be centered or at the end." >}}
 
 ---
 
