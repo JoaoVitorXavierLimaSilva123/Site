@@ -35,11 +35,11 @@ Não que uma vida “normal” seja algo ruim; o ponto é não deixarmos de faze
 
 ---
 
-{{< img src="o_deserto_dos_tartaros.jpg"
+{{< img src="C:\Users\joaov\Desktop\meu-site\static\images\o_deserto_dos_tartaros.jpeg"
 
 alt="Cover"
 
-caption="This is the default position of a figcaption, but it can be centered or at the end." >}}
+caption="The Tartar Steppe|O Deserto dos Tártaros" >}}
 
 ---
 
