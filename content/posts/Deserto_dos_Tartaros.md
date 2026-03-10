@@ -34,7 +34,12 @@ O livro apresenta muitos momentos que podem significar diversas coisas. Mas, par
 Não que uma vida “normal” seja algo ruim; o ponto é não deixarmos de fazer aquilo que sentimos necessidade de fazer — seja estudar para uma prova, praticar alguma atividade física desafiadora ou ter coragem de chegar em alguém do nosso interesse. O essencial é não sermos omissos ou covardes e, por causa disso, não sofrermos com o arrependimento tardio.
 
 ---
-{{< img src="o_deserto_dos_tartaros.jpeg" alt="Deserto" caption="This is the default position of a figcaption, but it can be centered or at the end." >}}
+
+{{< img src="o_deserto_dos_tartaros.jpg"
+
+alt="Cover"
+
+caption="This is the default position of a figcaption, but it can be centered or at the end." >}}
 
 ---
 
@@ -57,6 +62,7 @@ But the cruel irony arrives swiftly. He is dismissed from the fortress — not o
 
 In the end, Drogo is denied even the reward of witnessing what he had awaited for so long: the arrival of the Tartars.
 What Can We Learn from the Novel?
+
 ---------------------------------
 
 The book contains many moments open to interpretation. For me, however, it serves as a dramatic reminder of how inexorable time truly is. Because of this, we must create our own opportunities instead of waiting for life to present them to us.
