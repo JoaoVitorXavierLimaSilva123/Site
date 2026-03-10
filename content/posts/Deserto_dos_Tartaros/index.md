@@ -35,7 +35,7 @@ Não que uma vida “normal” seja algo ruim; o ponto é não deixarmos de faze
 
 ---
 
-{{< img src="C:\Users\joaov\Desktop\meu-site\static\images\o_deserto_dos_tartaros.jpeg"
+{{< img src="o_deserto_dos_tartaros.jpeg"
 
 alt="Cover"
 
